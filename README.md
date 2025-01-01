@@ -1,0 +1,1 @@
+This repository contains a basic HTML code for creating a simple feedback form. The form includes input fields for collecting user details, feedback, and suggestions. Perfect for beginners learning HTML .
